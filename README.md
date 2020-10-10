@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Bienvenue sur notre page Github 
 
 You can use the [editor on GitHub](https://github.com/programming-liftoff/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez retrouver tous les projets et code réalisé par notre département sur [CDMV on Github]().
+
+Le thème de notre page Github n'est autre que [Jekyll](https://jekyllrb.com/). Un hyperlien permet d'en savoir plus sur ce qu'il est possible de faire avec Jekyll. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vous avez des problèmes à créer une page Github? Allez voir notre [documentation](https://help.github.com/categories/github-pages-basics/) ou notre [contact support](https://github.com/contact) et nous vous aiderons à vous en sortir.
+
