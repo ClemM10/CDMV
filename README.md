@@ -8,7 +8,9 @@ Le thème de notre page Github n'est autre que [Jekyll](https://jekyllrb.com/). 
 
 Notre page Github sera dédié à la réalisation de différents exercices en Java. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## L'apprentissage des boucles for 
+
+Les exercices seront principalement basés sur l'apprentissage des boucles for avec différents exercices. 
 
 ### Exercices 
 
