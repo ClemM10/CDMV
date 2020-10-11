@@ -10,7 +10,7 @@ Notre page Github sera dédié à la réalisation de différents exercices en Ja
 
 ## L'apprentissage des boucles for 
 
-Les exercices seront principalement basés sur l'apprentissage des boucles for avec différents exercices. 
+Les exercices seront principalement basés sur l'apprentissage des boucles for avec différents exercices. Développez de nouvelles compétences en apprenant à les réaliser ! 
 
 ### Exercices 
 
